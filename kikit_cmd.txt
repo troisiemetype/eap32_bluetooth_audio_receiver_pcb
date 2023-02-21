@@ -1,0 +1,1 @@
+kikit fab jlcpcb --no-drc Bluetooth_receiver.kicad_pcb ./fab --nametemplate bluetooth_receiver_{}
